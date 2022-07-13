@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654644789 source:d:\usuario\desktop\utn\laboratorio y programacion 1\segundo parcial\tp conceptual\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1656274272 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\segundo parcial\tp conceptual\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
